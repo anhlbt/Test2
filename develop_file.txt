@@ -1,3 +1,4 @@
 add new first line
 add the second line, after add this file into gitignore
 thank you so much to appreciate my work
+new line after use .gitignore
